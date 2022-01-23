@@ -1,4 +1,6 @@
-_pychahe_/
+#初めての設定
+
+__pycache__/
 .idea/
-head.key
+head_key.py
 *.xlsx
